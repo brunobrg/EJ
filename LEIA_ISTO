@@ -1,0 +1,15 @@
+Para editar este documento, necessita-se de 2 programas instalados e a utilização do sistema operacional Linux.
+
+Primeiramente instale: 
+-texlive-full usando o comando:
+	sudo apt-get install texlive-full
+
+-abntex usando o comando:
+	sudo apt-get install abntex
+
+
+Depois, basta clonar o repositório no github: www.github.com/RafaelFazzolino/EJ
+
+Entrar na pasta pelo terminal e rodar o comando "make". Isso gera o PDF.
+
+Para editar algo, entre na pasta conteúdo, na mesma se encontra o arquivo "conteúdo", este é a estrutura do documento, que chama os outros arquivos como a introdução, objetivos e etc...
