@@ -1,0 +1,8 @@
+\select@language {brazil}
+\select@language {english}
+\select@language {brazil}
+\contentsline {section}{\numberline {1 }Introdu\IeC {\c c}\IeC {\~a}o}{1}{section.0.1}
+\contentsline {subsection}{\numberline {1 .1}Empresa J\IeC {\'u}nior, o que \IeC {\'e}?}{1}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {1 .2}Objetivos de uma Empresa J\IeC {\'u}nior}{1}{subsection.0.1.2}
+\contentsline {section}{\numberline {2 }Proposta - Empresa J\IeC {\'u}nior de Software}{1}{section.0.2}
+\contentsline {section}{\numberline {3 }Equipe}{1}{section.0.3}
